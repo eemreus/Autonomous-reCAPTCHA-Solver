@@ -24,5 +24,5 @@ Bu proje, YOLOv8 nesne tespiti mimarisini ve Bezier eğrilerini (Bezier Curves) 
 1. Depoyu bilgisayarınıza klonlayın.
 2. Gerekli kütüphaneleri yükleyin:
 ```bash
-   pip install ultralytics selenium opencv-python numpy
-   python main.py
+pip install ultralytics selenium opencv-python numpy
+python main.py
